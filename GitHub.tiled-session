@@ -17,6 +17,11 @@
                 "y": 1742.4242424242423
             }
         },
+        "New_world.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "floortileset.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -25,12 +30,15 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "flowers-painted.tsx": {
+            "dynamicWrapping": false
+        },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 8,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 581.6250972258232,
-                "y": 540.4075706507649
+                "x": 506.0596318382162,
+                "y": 538.8809955924294
             }
         },
         "map.json#floortileset": {
@@ -44,8 +52,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1467,
-                "y": 1427
+                "x": 1362.5,
+                "y": 1423
             }
         },
         "new_world.json#floortileset": {
@@ -66,8 +74,9 @@
     "project": "GitHub.tiled-project",
     "property.type": "color",
     "recentFiles": [
-        "map.json",
+        "New_world.tsx",
         "new_world.json",
+        "map.json",
         "tilesets_deviant_milkian_1.tsx",
         "floortileset_abstand.tsx",
         "New_World.json",
@@ -75,5 +84,6 @@
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 1,
-    "tileset.spacing": 2
+    "tileset.spacing": 2,
+    "tileset.type": 0
 }
