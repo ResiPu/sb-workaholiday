@@ -39,8 +39,8 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 505.2963443090485,
-                "y": 537.3544205340938
+                "x": 503.769769250713,
+                "y": 535.8278454757584
             }
         },
         "map.json#floortileset": {
@@ -51,11 +51,11 @@
             "scaleInEditor": 1
         },
         "new_world.json": {
-            "scale": 0.6550611413043478,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 828.9302566761733,
-                "y": 714.4371273010112
+                "x": 702,
+                "y": 402
             }
         },
         "new_world.json#floortileset": {
