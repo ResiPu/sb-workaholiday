@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map.json",
+    "activeFile": "new_world.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -22,11 +22,12 @@
             "scaleInEditor": 1
         },
         "floortileset_abstand.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 1,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 581.6250972258232,
                 "y": 540.4075706507649
@@ -40,11 +41,11 @@
             "scaleInEditor": 1
         },
         "new_world.json": {
-            "scale": 0.25,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1196,
-                "y": 1492
+                "x": 1467,
+                "y": 1427
             }
         },
         "new_world.json#floortileset": {
@@ -53,20 +54,22 @@
             "scaleInEditor": 1
         },
         "tilesets_deviant_milkian_1.tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "map.json"
+        "map.json",
+        "new_world.json"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "bool",
+    "property.type": "color",
     "recentFiles": [
+        "map.json",
+        "new_world.json",
         "tilesets_deviant_milkian_1.tsx",
         "floortileset_abstand.tsx",
-        "map.json",
         "New_World.json",
         "floortileset.tsx"
     ],
