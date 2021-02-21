@@ -37,10 +37,10 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 506.822919367384,
-                "y": 538.8809955924294
+                "x": 505.2963443090485,
+                "y": 537.3544205340938
             }
         },
         "map.json#floortileset": {
@@ -52,10 +52,10 @@
         },
         "new_world.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 506.822919367384,
-                "y": 538.8809955924294
+                "x": 828.9302566761733,
+                "y": 714.4371273010112
             }
         },
         "new_world.json#floortileset": {
