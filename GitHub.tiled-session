@@ -32,7 +32,8 @@
         },
         "flowers-painted.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json": {
             "scale": 0.6550611413043478,
@@ -62,6 +63,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "new_world.json#flowers-painted": {
+            "scaleInDock": 1
+        },
         "new_world.json#office_1": {
             "scaleInDock": 1
         },
@@ -72,15 +76,17 @@
     },
     "map.lastUsedFormat": "json",
     "openFiles": [
+        "new_world.json",
         "map.json",
-        "new_world.json"
+        "flowers-painted.tsx"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "flowers-painted.tsx",
+        "map.json",
         "new_world.json",
         "New_world.tsx",
-        "map.json",
         "tilesets_deviant_milkian_1.tsx",
         "floortileset_abstand.tsx",
         "New_World.json",
