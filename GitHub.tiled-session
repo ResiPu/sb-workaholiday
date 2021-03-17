@@ -27,10 +27,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 6,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1025.350386043496,
-                "y": 715.629162491896
+                "x": 875.2991100371308,
+                "y": 709.8579595685742
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -82,8 +82,8 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 641.1615245009075,
-                "y": 532.7746953590874
+                "x": 525.1418200674099,
+                "y": 531.248120300752
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -109,8 +109,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 888,
-                "y": 670
+                "x": 736,
+                "y": 668
             }
         },
         "new_world.json#floortileset": {
@@ -119,7 +119,8 @@
             "scaleInEditor": 1
         },
         "new_world.json#flowers-painted": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "new_world.json#office_1": {
             "scaleInDock": 1
