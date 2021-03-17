@@ -27,9 +27,9 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 756.0275829551481,
+                "x": 750.2563800318263,
                 "y": 801.2353391878352
             }
         },
@@ -55,9 +55,9 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 2,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 493.0837438423646,
+                "x": 491.55716878402905,
                 "y": 567.122634171636
             }
         },
@@ -70,7 +70,7 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 698,
                 "y": 721

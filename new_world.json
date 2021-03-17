@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/sb-workaholiday.json"
+                 "value":".\/sb-workaholiday\/map.json"
                 }],
          "type":"tilelayer",
          "visible":false,
