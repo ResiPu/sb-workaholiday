@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sb-workaholiday\/SDS_BVA.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/resipu.github.io\/sb-workaholiday\/SDS_BVA.json"
                 }],
          "type":"tilelayer",
          "visible":true,
