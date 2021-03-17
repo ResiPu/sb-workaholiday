@@ -27,10 +27,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 927.2399363470263,
-                "y": 746.4089114162784
+                "x": 925.3162020392524,
+                "y": 744.4851771085047
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -78,7 +78,7 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 639.6349494425721,
                 "y": 531.248120300752
@@ -105,7 +105,7 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 888,
                 "y": 670
