@@ -27,10 +27,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 8,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 875.2991100371308,
-                "y": 709.8579595685742
+                "x": 867.6041728060351,
+                "y": 681.0019449519655
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -80,7 +80,7 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 525.1418200674099,
                 "y": 531.248120300752
