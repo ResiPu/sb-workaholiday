@@ -3,12 +3,15 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "new_world.json",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "New_World.json": {
             "scale": 0.33,
             "selectedLayer": 2,
@@ -19,6 +22,21 @@
         },
         "New_world.tsx": {
             "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SDS_BVA.json": {
+            "scale": 0.5198223039215687,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 759.875051570696,
+                "y": 803.1590734956089
+            }
+        },
+        "SDS_BVA.json#Sitzplätze_BVA[5125]": {
+            "scaleInDock": 1
+        },
+        "Sitzplätze_BVA[5125].tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -37,10 +55,10 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 503.769769250713,
-                "y": 535.8278454757584
+                "x": 494.6103189007,
+                "y": 568.6492092299716
             }
         },
         "map.json#floortileset": {
@@ -52,10 +70,10 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 702,
-                "y": 402
+                "x": 698,
+                "y": 721
             }
         },
         "new_world.json#floortileset": {
@@ -74,24 +92,29 @@
             "scaleInEditor": 1
         }
     },
+    "map.height": 50,
     "map.lastUsedFormat": "json",
+    "map.width": 50,
     "openFiles": [
         "new_world.json",
         "map.json",
         "flowers-painted.tsx"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "Sitzplätze_BVA[5125].tsx",
+        "SDS_BVA.json",
+        "new_world.json",
         "flowers-painted.tsx",
         "map.json",
-        "new_world.json",
         "New_world.tsx",
         "tilesets_deviant_milkian_1.tsx",
         "floortileset_abstand.tsx",
         "New_World.json",
         "floortileset.tsx"
     ],
+    "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 1,
     "tileset.spacing": 2,
