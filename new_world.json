@@ -55,9 +55,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/resipu.github.io\/sb-workaholiday\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

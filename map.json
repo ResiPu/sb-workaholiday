@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/SDS_BVA.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/resipu.github.io\/sb-workaholiday\/SDS_BVA.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -957,21 +957,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":26,
-         "firstgid":682,
-         "image":"Sitzpl\u00e4tze_BVA.PNG",
-         "imageheight":878,
-         "imagewidth":907,
-         "margin":1,
-         "name":"Sitzpl\u00e4tze_BVA",
-         "spacing":2,
-         "tilecount":650,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":16,
-         "firstgid":1332,
+         "firstgid":682,
          "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
@@ -1056,21 +1043,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":19,
-         "firstgid":1588,
-         "image":"flowers-painted.png",
-         "imageheight":674,
-         "imagewidth":668,
-         "margin":1,
-         "name":"flowers-painted",
-         "spacing":2,
-         "tilecount":361,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":10,
-         "firstgid":1949,
+         "firstgid":938,
          "image":"tf_jungle_tileset.png",
          "imageheight":336,
          "imagewidth":352,
@@ -1078,19 +1052,6 @@
          "name":"tf_jungle_tileset",
          "spacing":2,
          "tilecount":90,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":26,
-         "firstgid":2039,
-         "image":"Sitzpl\u00e4tze_BVA.PNG",
-         "imageheight":878,
-         "imagewidth":907,
-         "margin":1,
-         "name":"Sitzpl\u00e4tze_BVA",
-         "spacing":2,
-         "tilecount":650,
          "tileheight":32,
          "tilewidth":32
         }],
