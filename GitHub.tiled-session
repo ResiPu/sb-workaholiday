@@ -146,7 +146,7 @@
         "SDS_BVA.json"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "new_world.json",
         "map.json",
