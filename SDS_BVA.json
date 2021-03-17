@@ -78,8 +78,8 @@
          "properties":[
                 {
                  "name":"playAudioLoop",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=Jn09UdSb3aA"
+                 "type":"file",
+                 "value":"Hang Massive - Warmth of the Sun's Rays - London Union Chapel.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -273,6 +273,33 @@
                         {
                          "name":"collides",
                          "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
+                 "id":168,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":169,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":170,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
                          "value":true
                         }]
                 }, 
@@ -309,7 +336,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
