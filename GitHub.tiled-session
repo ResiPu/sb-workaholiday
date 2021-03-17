@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map.json",
+    "activeFile": "SDS_BVA.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -27,10 +27,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 925.3162020392524,
-                "y": 744.4851771085047
+                "x": 919.5449991159308,
+                "y": 738.7139741851829
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -40,7 +40,8 @@
             "scaleInDock": 1
         },
         "SDS_BVA.json#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#flowers-painted": {
             "scaleInDock": 1
@@ -80,8 +81,8 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 639.6349494425721,
-                "y": 531.248120300752
+                "x": 735.8091781177081,
+                "y": 544.9872958257713
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -105,10 +106,10 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 888,
-                "y": 670
+                "x": 736,
+                "y": 544
             }
         },
         "new_world.json#floortileset": {
@@ -141,20 +142,20 @@
     "openFiles": [
         "new_world.json",
         "map.json",
-        "flowers-painted.tsx"
+        "SDS_BVA.json"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "new_world.json",
+        "map.json",
+        "SDS_BVA.json",
         "flowers-painted.tsx",
         "tilesets_deviant_milkian_2.tsx",
         "floortileset1.tsx",
         "tf_jungle_tileset.tsx",
         "Sitzplätze_BVA.tsx",
         "Sitzplätze_BVA[5125].tsx",
-        "SDS_BVA.json",
-        "new_world.json",
-        "map.json",
         "New_world.tsx",
         "tilesets_deviant_milkian_1.tsx",
         "floortileset_abstand.tsx"
