@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sb-workaholiday\/map.json"
+                 "value":".\/sb-workaholiday\/SDS_BVA.json"
                 }],
          "type":"tilelayer",
          "visible":true,
