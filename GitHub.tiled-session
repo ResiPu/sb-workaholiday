@@ -27,13 +27,28 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 750.2563800318263,
-                "y": 801.2353391878352
+                "x": 744.4851771085046,
+                "y": 754.1038486473742
             }
         },
+        "SDS_BVA.json#Sitzplätze_BVA": {
+            "scaleInDock": 1
+        },
         "SDS_BVA.json#Sitzplätze_BVA[5125]": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#flowers-painted": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#tf_jungle_tileset": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
         "Sitzplätze_BVA[5125].tsx": {
@@ -55,25 +70,37 @@
         },
         "map.json": {
             "scale": 0.6550611413043478,
-            "selectedLayer": 8,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 491.55716878402905,
-                "y": 567.122634171636
+                "x": 490.03059372569356,
+                "y": 532.7746953590874
             }
         },
+        "map.json#Sitzplätze_BVA": {
+            "scaleInDock": 1
+        },
         "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#flowers-painted": {
             "scaleInDock": 1
         },
         "map.json#office_1": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json#tf_jungle_tileset": {
+            "scaleInDock": 1
+        },
+        "map.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 698,
-                "y": 721
+                "x": 696,
+                "y": 676
             }
         },
         "new_world.json#floortileset": {
