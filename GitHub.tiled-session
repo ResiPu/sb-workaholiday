@@ -10,7 +10,12 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "0px All (sloppy).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "New_World.json": {
             "scale": 0.33,
@@ -27,16 +32,22 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 9,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 867.6041728060351,
-                "y": 681.0019449519655
+                "x": 788.7310661873047,
+                "y": 728.1334354924264
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#Sitzplätze_BVA[5125]": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#Waffen": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#extra_or_unfinished_LbICGV": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#floortileset": {
@@ -47,7 +58,8 @@
             "scaleInDock": 1
         },
         "SDS_BVA.json#tf_jungle_tileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1,
@@ -58,6 +70,10 @@
             "scaleInEditor": 1
         },
         "Sitzplätze_BVA[5125].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "extra_or_unfinished_LbICGV.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -78,12 +94,16 @@
             "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
+        "llama.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "map.json": {
             "scale": 0.6550611413043478,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 525.1418200674099,
-                "y": 531.248120300752
+                "x": 522.088669950739,
+                "y": 532.0114078299196
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -110,7 +130,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 736,
-                "y": 668
+                "y": 669
             }
         },
         "new_world.json#floortileset": {
@@ -149,6 +169,9 @@
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "llama.tsx",
+        "0px All (sloppy).tsx",
+        "extra_or_unfinished_LbICGV.tsx",
         "new_world.json",
         "map.json",
         "SDS_BVA.json",
@@ -157,10 +180,7 @@
         "floortileset1.tsx",
         "tf_jungle_tileset.tsx",
         "Sitzplätze_BVA.tsx",
-        "Sitzplätze_BVA[5125].tsx",
-        "New_world.tsx",
-        "tilesets_deviant_milkian_1.tsx",
-        "floortileset_abstand.tsx"
+        "Sitzplätze_BVA[5125].tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
