@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="llama" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="1" columns="1">
- <image source="llama.gif" width="48" height="48"/>
+<tileset version="1.4" tiledversion="1.4.3" name="llama" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+ <image source="llama.png" width="64" height="96"/>
+ <tile id="4">
+  <animation>
+   <frame tileid="0" duration="100"/>
+   <frame tileid="0" duration="100"/>
+   <frame tileid="1" duration="100"/>
+   <frame tileid="3" duration="100"/>
+   <frame tileid="4" duration="100"/>
+  </animation>
+ </tile>
 </tileset>

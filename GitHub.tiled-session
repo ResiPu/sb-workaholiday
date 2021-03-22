@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "SDS_BVA.json",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -32,10 +32,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5198223039215687,
-            "selectedLayer": 11,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 788.7310661873047,
-                "y": 728.1334354924264
+                "x": 769.4937231095654,
+                "y": 671.3832734130959
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -45,6 +45,12 @@
             "scaleInDock": 1
         },
         "SDS_BVA.json#Waffen": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#chicken_eat": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#cow_eat": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#extra_or_unfinished_LbICGV": {
@@ -57,6 +63,15 @@
         "SDS_BVA.json#flowers-painted": {
             "scaleInDock": 1
         },
+        "SDS_BVA.json#llama_walk": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#sheep_eat": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#sheep_walk": {
+            "scaleInDock": 1
+        },
         "SDS_BVA.json#tf_jungle_tileset": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -65,11 +80,22 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "SDS_BVA.json#treepack": {
+            "scaleInDock": 1
+        },
         "Sitzplätze_BVA.tsx": {
             "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "Sitzplätze_BVA[5125].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chicken_eat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cow_eat.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -98,12 +124,16 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "llama_walk.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "map.json": {
             "scale": 0.6550611413043478,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 522.088669950739,
-                "y": 532.0114078299196
+                "x": 1071.6556909515168,
+                "y": 758.7078039927405
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -129,8 +159,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 736,
-                "y": 669
+                "x": 735,
+                "y": 550
             }
         },
         "new_world.json#floortileset": {
@@ -145,6 +175,14 @@
         "new_world.json#office_1": {
             "scaleInDock": 1
         },
+        "sheep_eat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sheep_walk.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "tf_jungle_tileset.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -156,8 +194,17 @@
         "tilesets_deviant_milkian_2.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "treepack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "weapons.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
+    "frame.defaultDuration": 100,
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 50,
@@ -167,24 +214,24 @@
         "SDS_BVA.json"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "llama.tsx",
-        "0px All (sloppy).tsx",
-        "extra_or_unfinished_LbICGV.tsx",
         "new_world.json",
-        "map.json",
         "SDS_BVA.json",
-        "flowers-painted.tsx",
-        "tilesets_deviant_milkian_2.tsx",
-        "floortileset1.tsx",
-        "tf_jungle_tileset.tsx",
-        "Sitzplätze_BVA.tsx",
-        "Sitzplätze_BVA[5125].tsx"
+        "map.json",
+        "sheep_walk.tsx",
+        "cow_eat.tsx",
+        "sheep_eat.tsx",
+        "chicken_eat.tsx",
+        "llama_walk.tsx",
+        "0px All (sloppy).tsx",
+        "treepack.tsx",
+        "weapons.tsx",
+        "llama.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
-    "tileset.margin": 1,
-    "tileset.spacing": 2,
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
     "tileset.type": 0
 }
