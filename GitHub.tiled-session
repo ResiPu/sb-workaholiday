@@ -91,6 +91,18 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "_Spritesheet_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "animal-and-monster.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "charsets_12_characters_4thsheet_completed_by_antifarea.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
         "chicken_eat.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -216,6 +228,9 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "_Spritesheet_tileset.tsx",
+        "charsets_12_characters_4thsheet_completed_by_antifarea.tsx",
+        "animal-and-monster.tsx",
         "new_world.json",
         "SDS_BVA.json",
         "map.json",
@@ -224,10 +239,7 @@
         "sheep_eat.tsx",
         "chicken_eat.tsx",
         "llama_walk.tsx",
-        "0px All (sloppy).tsx",
-        "treepack.tsx",
-        "weapons.tsx",
-        "llama.tsx"
+        "0px All (sloppy).tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
