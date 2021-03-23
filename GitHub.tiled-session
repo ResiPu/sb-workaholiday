@@ -31,11 +31,11 @@
             "scaleInEditor": 1
         },
         "SDS_BVA.json": {
-            "scale": 0.5198223039215687,
-            "selectedLayer": 5,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 731.0190369540873,
-                "y": -6761.926091825307
+                "x": 1042.4242424242425,
+                "y": 557.5757575757577
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
@@ -184,8 +184,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 735,
-                "y": 542
+                "x": 736,
+                "y": 550
             }
         },
         "new_world.json#floortileset": {
