@@ -63,6 +63,9 @@
         "SDS_BVA.json#flowers-painted": {
             "scaleInDock": 1
         },
+        "SDS_BVA.json#llama": {
+            "scaleInEditor": 1
+        },
         "SDS_BVA.json#llama_walk": {
             "scaleInDock": 1
         },
@@ -187,6 +190,10 @@
         "new_world.json#office_1": {
             "scaleInDock": 1
         },
+        "people.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "sheep_eat.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -196,6 +203,10 @@
             "scaleInEditor": 1
         },
         "tf_jungle_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesetStart5.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -228,18 +239,18 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "tilesetStart5.tsx",
+        "people.tsx",
         "_Spritesheet_tileset.tsx",
-        "charsets_12_characters_4thsheet_completed_by_antifarea.tsx",
         "animal-and-monster.tsx",
+        "llama.tsx",
+        "charsets_12_characters_4thsheet_completed_by_antifarea.tsx",
         "new_world.json",
         "SDS_BVA.json",
         "map.json",
         "sheep_walk.tsx",
         "cow_eat.tsx",
-        "sheep_eat.tsx",
-        "chicken_eat.tsx",
-        "llama_walk.tsx",
-        "0px All (sloppy).tsx"
+        "sheep_eat.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
