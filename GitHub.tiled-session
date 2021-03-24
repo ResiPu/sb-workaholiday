@@ -206,8 +206,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 732,
-                "y": 546
+                "x": 724,
+                "y": 540
             }
         },
         "new_world.json#Basic Overworld A5": {
@@ -232,6 +232,9 @@
             "scaleInEditor": 1
         },
         "new_world.json#office_1": {
+            "scaleInDock": 1
+        },
+        "new_world.json#tilesetStart5": {
             "scaleInDock": 1
         },
         "people.tsx": {
