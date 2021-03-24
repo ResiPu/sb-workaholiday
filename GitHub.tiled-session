@@ -17,6 +17,14 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Basic Overworld A5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Häuser.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "New_World.json": {
             "scale": 0.33,
             "selectedLayer": 2,
@@ -31,17 +39,20 @@
             "scaleInEditor": 1
         },
         "SDS_BVA.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1042.4242424242425,
-                "y": 557.5757575757577
+                "x": 778,
+                "y": 958
             }
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#Sitzplätze_BVA[5125]": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#Town B1": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#Waffen": {
@@ -60,6 +71,9 @@
             "scaleInDock": 1
         },
         "SDS_BVA.json#extra_or_unfinished_LbICGV": {
+            "scaleInDock": 1
+        },
+        "SDS_BVA.json#farming_fishing": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#floortileset": {
@@ -104,6 +118,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Town B1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "_Spritesheet_tileset.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -125,6 +143,10 @@
             "scaleInEditor": 1
         },
         "extra_or_unfinished_LbICGV.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "farming_fishing.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -157,8 +179,8 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1071.6556909515168,
-                "y": 758.7078039927405
+                "x": 1070.1291158931813,
+                "y": 564.0694840549651
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -182,11 +204,23 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 736,
-                "y": 550
+                "x": 732,
+                "y": 546
             }
+        },
+        "new_world.json#Basic Overworld A5": {
+            "scaleInDock": 1
+        },
+        "new_world.json#Town B1": {
+            "scaleInDock": 1
+        },
+        "new_world.json#farming_fishing": {
+            "scaleInDock": 1
+        },
+        "new_world.json#fence": {
+            "scaleInDock": 1
         },
         "new_world.json#floortileset": {
             "dynamicWrapping": false,
@@ -247,8 +281,12 @@
         "SDS_BVA.json"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "Häuser.tsx",
+        "farming_fishing.tsx",
+        "Basic Overworld A5.tsx",
+        "Town B1.tsx",
         "new_world.json",
         "map.json",
         "SDS_BVA.json",
@@ -256,11 +294,7 @@
         "people.tsx",
         "_Spritesheet_tileset.tsx",
         "animal-and-monster.tsx",
-        "llama.tsx",
-        "charsets_12_characters_4thsheet_completed_by_antifarea.tsx",
-        "sheep_walk.tsx",
-        "cow_eat.tsx",
-        "sheep_eat.tsx"
+        "llama.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
