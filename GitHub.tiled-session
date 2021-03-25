@@ -84,13 +84,15 @@
             "scaleInDock": 1
         },
         "SDS_BVA.json#cow_eat": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#extra_or_unfinished_LbICGV": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#farming_fishing": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#floortileset": {
             "scaleInDock": 1,
@@ -104,13 +106,15 @@
             "scaleInEditor": 1
         },
         "SDS_BVA.json#llama_walk": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#sheep_eat": {
             "scaleInDock": 1
         },
         "SDS_BVA.json#sheep_walk": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#tf_jungle_tileset": {
             "scaleInDock": 1,
