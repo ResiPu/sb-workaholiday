@@ -21,6 +21,14 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Castle B1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Hausebene.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Häuser.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -38,13 +46,21 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Pool.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "SDS_BVA.json": {
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 778,
-                "y": 958
+                "x": 766,
+                "y": 774
             }
+        },
+        "SDS_BVA.json#Castle B1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
             "scaleInDock": 1
@@ -150,6 +166,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "fence.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "floortileset.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -180,7 +200,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 1070.1291158931813,
-                "y": 564.0694840549651
+                "y": 564.8327715841327
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -206,8 +226,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 724,
-                "y": 540
+                "x": 727,
+                "y": 542
             }
         },
         "new_world.json#Basic Overworld A5": {
@@ -281,23 +301,27 @@
     "openFiles": [
         "new_world.json",
         "map.json",
-        "SDS_BVA.json"
+        "SDS_BVA.json",
+        "fence.tsx",
+        "Hausebene.tsx",
+        "Castle B1.tsx",
+        "Pool.tsx"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Pool.tsx",
+        "Castle B1.tsx",
+        "new_world.json",
+        "map.json",
+        "Hausebene.tsx",
+        "fence.tsx",
+        "SDS_BVA.json",
         "Häuser.tsx",
         "farming_fishing.tsx",
         "Basic Overworld A5.tsx",
         "Town B1.tsx",
-        "new_world.json",
-        "map.json",
-        "SDS_BVA.json",
-        "tilesetStart5.tsx",
-        "people.tsx",
-        "_Spritesheet_tileset.tsx",
-        "animal-and-monster.tsx",
-        "llama.tsx"
+        "tilesetStart5.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
