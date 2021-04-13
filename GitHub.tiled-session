@@ -52,7 +52,7 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5,
-            "selectedLayer": 8,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 766,
                 "y": 774
@@ -130,6 +130,9 @@
         "SDS_BVA.json#treepack": {
             "scaleInDock": 1
         },
+        "SDS_BVA.json#unicorn": {
+            "scaleInDock": 1
+        },
         "Sitzplätze_BVA.tsx": {
             "scaleInDock": 0.25,
             "scaleInEditor": 1
@@ -203,8 +206,8 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1070.1291158931813,
-                "y": 564.8327715841327
+                "x": 735.0458905885404,
+                "y": 543.4607207674359
             }
         },
         "map.json#Sitzplätze_BVA": {
@@ -230,7 +233,7 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 728,
+                "x": 727,
                 "y": 542
             }
         },
@@ -297,6 +300,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 0.33
         },
+        "unicorn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "weapons.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -313,23 +320,24 @@
         "fence.tsx",
         "Hausebene.tsx",
         "Castle B1.tsx",
-        "Pool.tsx"
+        "Pool.tsx",
+        "unicorn.tsx"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "unicorn-4127196_1280.tsx",
-        "Hausebene.tsx",
-        "fence.tsx",
-        "Pool.tsx",
-        "Castle B1.tsx",
         "new_world.json",
         "map.json",
+        "unicorn.tsx",
+        "Pool.tsx",
+        "Castle B1.tsx",
+        "Hausebene.tsx",
+        "fence.tsx",
         "SDS_BVA.json",
+        "unicorn-4127196_1280.tsx",
         "Häuser.tsx",
         "farming_fishing.tsx",
-        "Basic Overworld A5.tsx",
-        "Town B1.tsx"
+        "Basic Overworld A5.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
