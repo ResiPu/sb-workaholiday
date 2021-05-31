@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "SDS_BVA.json",
+    "activeFile": "new_world.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -235,7 +235,7 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 7,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 766,
                 "y": 291
@@ -324,25 +324,20 @@
     "openFiles": [
         "new_world.json",
         "map.json",
-        "SDS_BVA.json",
-        "fence.tsx",
-        "Hausebene.tsx",
-        "Castle B1.tsx",
-        "Pool.tsx",
-        "unicorn.tsx"
+        "SDS_BVA.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "SDS_BVA.json",
+        "map.json",
+        "new_world.json",
         "House.tsx",
         "fence.tsx",
         "Hausebene.tsx",
         "Castle B1.tsx",
         "Pool.tsx",
         "unicorn.tsx",
-        "new_world.json",
-        "map.json",
-        "SDS_BVA.json",
         "unicorn-4127196_1280.tsx",
         "Häuser.tsx",
         "farming_fishing.tsx"
