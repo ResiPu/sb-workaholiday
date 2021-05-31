@@ -231,7 +231,7 @@
         },
         "new_world.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 621,
                 "y": 291
