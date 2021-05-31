@@ -52,7 +52,7 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 983,
                 "y": 817
