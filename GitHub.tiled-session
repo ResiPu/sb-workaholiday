@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "new_world.json",
+    "activeFile": "SDS_BVA.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -55,11 +55,11 @@
             "scaleInEditor": 1
         },
         "SDS_BVA.json": {
-            "scale": 0.75,
-            "selectedLayer": 20,
+            "scale": 0.5,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 876.6666666666666,
-                "y": 742.6666666666666
+                "x": 565,
+                "y": 996
             }
         },
         "SDS_BVA.json#Castle B1": {
@@ -67,7 +67,7 @@
             "scaleInEditor": 1
         },
         "SDS_BVA.json#Sitzplätze_BVA": {
-            "scaleInDock": 1
+            "scaleInDock": 0.25
         },
         "SDS_BVA.json#Sitzplätze_BVA[5125]": {
             "scaleInDock": 1
@@ -112,6 +112,9 @@
         "SDS_BVA.json#llama_walk": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "SDS_BVA.json#pflanzen": {
+            "scaleInDock": 1
         },
         "SDS_BVA.json#sheep_eat": {
             "scaleInDock": 1
@@ -214,15 +217,16 @@
             "scale": 0.6550611413043478,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 641.9248120300753,
-                "y": 541.9341457091003
+                "x": 545.7505833549391,
+                "y": 540.4075706507649
             }
         },
         "map.json#Sitzplätze_BVA": {
             "scaleInDock": 1
         },
         "map.json#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#flowers-painted": {
             "scaleInDock": 1,
@@ -238,12 +242,16 @@
         "map.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
+        "neu_pool.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "new_world.json": {
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 671.3333333333333,
-                "y": 725.3333333333333
+                "x": 58,
+                "y": 310.66666666666663
             }
         },
         "new_world.json#Basic Overworld A5": {
@@ -281,6 +289,10 @@
             "scaleInEditor": 1
         },
         "people.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pflanzen.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -333,23 +345,25 @@
         "new_world.json",
         "map.json",
         "SDS_BVA.json",
-        "houses-157869_1280.tsx"
+        "houses-157869_1280.tsx",
+        "neu_pool.tsx",
+        "pflanzen.tsx"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "new_world.json",
+        "map.json",
+        "pflanzen.tsx",
+        "neu_pool.tsx",
         "houses-157869_1280.tsx",
         "SDS_BVA.json",
-        "map.json",
-        "new_world.json",
         "House.tsx",
         "fence.tsx",
         "Hausebene.tsx",
         "Castle B1.tsx",
         "Pool.tsx",
-        "unicorn.tsx",
-        "unicorn-4127196_1280.tsx",
-        "Häuser.tsx"
+        "unicorn.tsx"
     ],
     "tileset.embedInMap": false,
     "tileset.lastUsedFormat": "tsx",
