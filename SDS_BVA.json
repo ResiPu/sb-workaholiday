@@ -203,7 +203,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.frogger.net\/"
+                 "value":"https:\/\/www.elfyourself.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
