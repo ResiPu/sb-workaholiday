@@ -56,10 +56,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5,
-            "selectedLayer": 3,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 741,
-                "y": 994
+                "x": 107,
+                "y": -142
             }
         },
         "SDS_BVA.json#Castle B1": {
@@ -250,8 +250,8 @@
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 58,
-                "y": 310.66666666666663
+                "x": 727.3333333333333,
+                "y": 542.6666666666666
             }
         },
         "new_world.json#Basic Overworld A5": {
@@ -352,13 +352,13 @@
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "chicken_eat.tsx",
         "new_world.json",
         "map.json",
         "pflanzen.tsx",
         "neu_pool.tsx",
         "houses-157869_1280.tsx",
         "SDS_BVA.json",
+        "chicken_eat.tsx",
         "House.tsx",
         "fence.tsx",
         "Hausebene.tsx",
