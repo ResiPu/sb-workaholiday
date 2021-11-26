@@ -56,10 +56,10 @@
         },
         "SDS_BVA.json": {
             "scale": 0.5,
-            "selectedLayer": 20,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 107,
-                "y": -142
+                "x": 762,
+                "y": 1126
             }
         },
         "SDS_BVA.json#Castle B1": {
