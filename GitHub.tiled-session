@@ -350,7 +350,7 @@
         "pflanzen.tsx"
     ],
     "project": "GitHub.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "neu_pool.tsx",
         "pflanzen.tsx",
